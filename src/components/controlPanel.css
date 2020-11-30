@@ -1,0 +1,14 @@
+.icon,
+.text {
+  vertical-align: middle;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.legend_title {
+  font-size: 18px;
+}
+
+.instru_text {
+  font-size: 12px;
+}

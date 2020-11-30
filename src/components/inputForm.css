@@ -1,0 +1,18 @@
+.menu-btn {
+    margin-left: 20px;
+}
+
+label {
+    margin-right: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+.wrapper_div {
+    background-color: #0B5E0E;
+    border-radius: 10px;
+}
+
+.submit-btn {
+    margin-left: 20px;
+}
