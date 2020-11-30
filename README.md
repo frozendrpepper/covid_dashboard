@@ -1,6 +1,6 @@
 # Covid-19 Dashboard MERN stack
-![alt text](https://southkingstownri.com/ImageRepository/Document?documentID=3809g)  
-(Source: Google Image Search (https://southkingstownri.com/ImageRepository/Document?documentID=3809))
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsouthkingstownri.com%2F998%2FCOVID-19&psig=AOvVaw1vfDpomPYqdou0n7lKwDQ3&ust=1606798254290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD4jY68qe0CFQAAAAAdAAAAABAD)  
+(Source: Google Image Search (https://www.google.com/url?sa=i&url=https%3A%2F%2Fsouthkingstownri.com%2F998%2FCOVID-19&psig=AOvVaw1vfDpomPYqdou0n7lKwDQ3&ust=1606798254290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD4jY68qe0CFQAAAAAdAAAAABAD))
 
 This is a simple Dashboard displaying Covid-19 cases around the world.
 
