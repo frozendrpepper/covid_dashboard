@@ -2,7 +2,7 @@
 ![alt text](https://southkingstownri.com/ImageRepository/Document?documentID=3809)  
 (Source: Google Image Search (https://southkingstownri.com/ImageRepository/Document?documentID=3809))
 
-This is a simple Dashboard displaying Covid-19 cases around the world.
+This is a Covid-19 dashboard which display accumulated number of cases and daily confirmed cases of Covid-19 between Jan/22/2020 and Sep/23/2020.
 
 ## Link to the Dashboard
 * [COVID 19 Dashboard](https://covid-dashboard-3e465.web.app/)
